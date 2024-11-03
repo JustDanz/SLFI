@@ -20,7 +20,7 @@ Make sure you have Python 3.x installed. This tool requires the following packag
 - `pyfiglet`
 
 These packages can be installed automatically if missing.
-
+```
 ## Installation
 
 1. Clone this repository:
@@ -75,9 +75,7 @@ Made By JustDanz
 
 ```
 ## For English Command
-Here’s the README file for your LFI Detection Tool in English:
 
-```markdown
 # LFI Detection Tool
 
 A simple command-line tool for detecting Local File Inclusion (LFI) vulnerabilities in web applications. This tool uses various payloads to test if the application is susceptible to LFI attacks.
