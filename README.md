@@ -25,20 +25,20 @@ These packages can be installed automatically if missing.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/LFI-Detector.git
-   cd LFI-Detector
+   git clone https://github.com/JustDanz/SLFI.git
+   cd SLFI
    ```
 
 2. Run the script to install required packages:
    ```bash
-   python lfi_detector.py
+   python SLFI.py
    ```
 
 ## Usage
 
 Run the tool with:
 ```bash
-python lfi_detector.py
+python SLFI.py
 ```
 
 You will be prompted to enter the target URL (e.g., `http://example.com/page`). The tool will then perform the LFI checks.
@@ -61,9 +61,6 @@ Masukkan URL target (contoh: http://example.com/page):
 - Use this tool responsibly and ethically.
 - The tool may produce false positives; manual verification is recommended.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
@@ -72,6 +69,6 @@ Made By JustDanz
 ```
 
 ### Instructions to Customize
-- Replace `https://github.com/yourusername/LFI-Detector.git` with the actual URL of your GitHub repository.
+- Replace `https://github.com/JustDanz/SLFI.git` with the actual URL of your GitHub repository.
 - Add more details if necessary, such as contribution guidelines or a detailed explanation of how to customize payloads.
 - If you plan to add more features in the future, consider mentioning them in the README as "Upcoming Features" or "Roadmap".
